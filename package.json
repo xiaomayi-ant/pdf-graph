@@ -1,0 +1,24 @@
+{
+    "name": "ai-pdf-chatbot-langchain",
+    "description": "AI PDF chatbot template based on the book Learning LangChain (O'Reilly)",
+    "private": true,
+    "version": "0.0.1",
+    "author": "Mayo Oshin",
+    "license": "MIT",
+    "workspaces": [
+        "backend",
+        "frontend"
+    ],
+    "scripts": {
+        "build": "yarn run turbo:command build",
+        "turbo:command": "yarn turbo",
+        "lint": "yarn run turbo:command lint",
+        "lint:fix": "yarn run turbo:command lint:fix",
+        "format": "yarn run turbo:command format",
+        "format:check": "yarn run turbo:command format:check"
+    },
+    "devDependencies": {
+        "turbo": "latest"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

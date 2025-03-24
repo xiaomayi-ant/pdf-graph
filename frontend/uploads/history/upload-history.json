@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "x1.pdf",
+    "fileSize": 86902,
+    "uploadTime": "2025-03-21T08:55:13.530Z",
+    "status": "success"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 86902,
+    "uploadTime": "2025-03-21T09:01:13.942Z",
+    "status": "duplicate"
+  }
+]

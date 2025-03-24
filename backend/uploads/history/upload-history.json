@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.770Z",
+    "status": "success"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.771Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.773Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.774Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.775Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.776Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.778Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.778Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.780Z",
+    "status": "duplicate"
+  },
+  {
+    "filename": "x1.pdf",
+    "fileSize": 0,
+    "uploadTime": "2025-03-21T08:12:56.781Z",
+    "status": "duplicate"
+  }
+]
